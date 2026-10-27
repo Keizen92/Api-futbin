@@ -1,0 +1,8 @@
+.runtime/
+.env
+*.log
+data/
+coverage/
+.DS_Store
+Thumbs.db
+*.err

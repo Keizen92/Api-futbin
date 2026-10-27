@@ -1,0 +1,27 @@
+{
+  "checkedAt": "2026-10-26T03:33:45.907Z",
+  "source": "fixtures/player.html + fixtures/hover.html",
+  "first": {
+    "priceChanged": false,
+    "priceUpdatedAt": null,
+    "priceCheckedAt": "2026-10-26T03:33:45.897Z",
+    "lowestBin": 3400000
+  },
+  "manualUnchanged": {
+    "priceChanged": false,
+    "priceUpdatedAt": null,
+    "priceCheckedAt": "2026-10-26T03:33:45.903Z",
+    "lowestBin": 3400000
+  },
+  "afterFutbinChange": {
+    "priceChanged": true,
+    "priceUpdatedAt": "2026-10-26T03:33:45.907Z",
+    "priceCheckedAt": "2026-10-26T03:33:45.907Z",
+    "lowestBin": 3500000
+  },
+  "detailOverlay": {
+    "priceSource": "hover",
+    "priceChanged": true,
+    "priceUpdatedAt": "2026-10-26T03:33:45.907Z"
+  }
+}
